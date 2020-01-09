@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style type="text/css">
+        ol { list-style: none;}
+        li:before {color: #f00; font-family: "Times New Roman";}/* 设计层级目录序号的字体样式 */
+        li { counter-increment: a 1;}
+        li:before { content: (a)".  ";}
+        li li{ counter-increment: b 1;}
+        li li:before { content: counter(a)"."counter(b)".  ";}
+        li li li { counter-increment: c 1;}
+        li li li:before { content: counter(a)"."counter(b)"."counter(c)".  ";}
+    </style>
+</head>
+<body>
+<ol>
+    <li>一级列表项目1
+        <ol>
+            <li>二级列表项目1</li>
+            <li>二级列表项目2
+                <ol>
+                    <li>三级列表项目1</li>
+                    <li>三级列表项目2</li>
+                </ol>
+            </li>
+        </ol>
+    </li>
+</ol>
+</body>
+</html>
