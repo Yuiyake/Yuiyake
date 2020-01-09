@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b76b8adc-7c7c-4654-8d19-9ed4dae4c590" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/From.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gecko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperlink1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperlink2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperlink3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperlink4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hyperlink5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lsp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ball1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/change.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flower.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keshihua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/left.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/line1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menuitem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movedoor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/munu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuxinghua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenli.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yuan1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/井字表格.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图文列表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/垂直导航条.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排行榜.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/日历表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/显示验证.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/水平导航条.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/滑动门.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计反馈表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计用户登录页.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/辅助控件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/隔行换色.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/J2.html" beforeDir="false" afterPath="$PROJECT_DIR$/J2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,11 +16,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/设计用户登录页.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bsdemo/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1634">
-              <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+            <state>
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bsdemo/html/入门.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../bsdemo/html/禁用响应式.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -72,8 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/size1.html" />
-        <option value="$PROJECT_DIR$/color.html" />
         <option value="$PROJECT_DIR$/new.html" />
         <option value="$PROJECT_DIR$/Black.html" />
         <option value="$PROJECT_DIR$/RGBA.html" />
@@ -122,14 +105,18 @@
         <option value="$PROJECT_DIR$/显示验证.html" />
         <option value="$PROJECT_DIR$/设计反馈表.html" />
         <option value="$PROJECT_DIR$/设计用户登录页.html" />
+        <option value="$PROJECT_DIR$/../bsdemo/html/index.html" />
+        <option value="$PROJECT_DIR$/../bsdemo/html/入门.html" />
+        <option value="$PROJECT_DIR$/../bsdemo/html/禁用响应式.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="940" />
-    <option name="height" value="1090" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -142,6 +129,7 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,16 +169,27 @@
       <workItem from="1572832378488" duration="6537000" />
       <workItem from="1572948514228" duration="2000" />
       <workItem from="1573035933997" duration="1825000" />
+      <workItem from="1574727165187" duration="1190000" />
+      <workItem from="1574728948021" duration="456000" />
+      <workItem from="1574729425874" duration="305000" />
+      <workItem from="1574729753063" duration="1200000" />
+      <workItem from="1574743137156" duration="488000" />
+      <workItem from="1575812404279" duration="1545000" />
+      <workItem from="1576290053898" duration="1202000" />
+      <workItem from="1576751177260" duration="14000" />
+      <workItem from="1578556172534" duration="5316000" />
+      <workItem from="1578573607933" duration="3831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88961000" />
+    <option name="totallyTimeSpent" value="104508000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="752" height="872" extended-state="0" />
+    <frame x="761" y="0" width="782" height="871" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24855492" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24757953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,13 +201,33 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32931727" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24757953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32931727" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -217,20 +236,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/size1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/color.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -562,8 +567,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/设计用户登录页.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1634">
-          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+        <state relative-caret-position="291">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bsdemo/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bsdemo/html/入门.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bsdemo/html/禁用响应式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
