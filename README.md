@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Yuiyake
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yuiyake
+- 🌱 I’m currently learning SoftwareEngineering in GCU
+- 💞️ I’m looking to collaborate on Front End Engineering Design
+- 📫 How to reach me
+  - WeChat: beaker_1024
+  - email: beaker_sun@163.com
 
 <!---
 Yuiyake/Yuiyake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
