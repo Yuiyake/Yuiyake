@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yuiyake
 - 🌱 I’m currently learning SoftwareEngineering in GCU
 - 💞️ I’m looking to collaborate on Front End Engineering Design
+- ✨ Mirror warehouse
 - 📫 How to reach me
   - WeChat: beaker_1024
   - email: beaker_sun@163.com
